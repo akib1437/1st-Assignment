@@ -12,7 +12,7 @@
 /* banner style */
 .banner {
     margin-top: 131px;
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url("../assets/Hero-bg.png");
     width: 1440px;
     height: 652px;
     /* justify-content: center; */
